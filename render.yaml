@@ -1,2 +1,21 @@
-web: python webhook.py
-worker: python bot.py
+services:
+  - type: web
+    name: anime-news-bot
+    env: python
+    buildCommand: pip install -r requirements.txt
+    startCommand: python bot.py
+    envVars:
+      - key: API_ID
+        sync: false
+      - key: API_HASH
+        sync: false
+      - key: BOT_TOKEN
+        sync: false
+      - key: URL_A
+        sync: false
+      - key: START_PIC
+        sync: false
+      - key: MONGO_URI
+        sync: false
+      - key: ADMINS
+        sync: false
