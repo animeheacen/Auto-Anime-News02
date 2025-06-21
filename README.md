@@ -31,7 +31,7 @@ This Telegram bot fetches anime news from multiple sources like MyAnimeList, Cru
 You can easily deploy this bot to **Render** with just a few clicks. Use the button below to deploy it instantly:
 
 <p align="center">
-  <a href="https://render.com/deploy?template=https://github.com/Bots-Nation/AnimeNews-Bot">
+  <a href="https://render.com/deploy?template=[[https://github.com/Bots-Nation/AnimeNews-Bot](https://github.com/animeheacen/Auto-Anime-News)](https://github.com/animeheacen/Auto-Anime-News)">
     <img src="https://img.shields.io/badge/Deploy%20To%20Render-blue?style=for-the-badge&logo=render" width="220" height="38.45"/>
   </a>
 </p>
