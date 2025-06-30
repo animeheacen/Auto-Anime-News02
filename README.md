@@ -60,7 +60,7 @@ This Telegram bot fetches anime news from multiple sources like MyAnimeList, Cru
 You can easily deploy this bot to **Heroku** with just a few clicks. Use the button below to deploy it instantly:
 
 <p align="center">
-  <a href="https://heroku.com/deploy?template=https://github.com/Bots-Nation/AnimeNews-Bot">
+  <a href="https://heroku.com/deploy?template=https://github.com/animeheacen/Auto-Anime-News ">
     <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blue?style=for-the-badge&logo=heroku" width="220" height="38.45"/>
   </a>
 </p>
@@ -68,7 +68,7 @@ You can easily deploy this bot to **Heroku** with just a few clicks. Use the but
 You can easily deploy this bot to **Render** with just a few clicks. Use the button below to deploy it instantly:
 
 <p align="center">
-  <a href="https://render.com/deploy?template=[[https://github.com/Bots-Nation/AnimeNews-Bot](https://github.com/animeheacen/Auto-Anime-News)](https://github.com/animeheacen/Auto-Anime-News)">
+  <a href="https://render.com/deploy?template=[[https://github.com/animeheacen/Auto-Anime-News](https://github.com/animeheacen/Auto-Anime-News)](https://github.com/animeheacen/Auto-Anime-News)">
     <img src="https://img.shields.io/badge/Deploy%20To%20Render-blue?style=for-the-badge&logo=render" width="220" height="38.45"/>
   </a>
 </p>
@@ -76,7 +76,7 @@ You can easily deploy this bot to **Render** with just a few clicks. Use the but
 For manual hosting, follow these steps:
 1. Clone the repository:
     ```bash
-    git clone https://github.com/DARKXSIDE78/AnimeNewsBot.git
+    git clone https:https://github.com/animeheacen/Auto-Anime-News.git
     ```
 2. Navigate to the project directory:
     ```bash
